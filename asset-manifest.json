@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.8f53e5dc.js",
+    "main.js": "/static/js/main.12be387f.js",
     "static/media/kakao.png": "/static/media/kakao.c481b70e42296f465854.png",
     "static/media/github.png": "/static/media/github.7ff6f9e04c3d5fb79b06.png",
     "static/media/velog.png": "/static/media/velog.e84a2c9e1911cd18be36.png",
     "index.html": "/index.html",
-    "main.8f53e5dc.js.map": "/static/js/main.8f53e5dc.js.map"
+    "main.12be387f.js.map": "/static/js/main.12be387f.js.map"
   },
   "entrypoints": [
-    "static/js/main.8f53e5dc.js"
+    "static/js/main.12be387f.js"
   ]
 }
